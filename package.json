@@ -1,0 +1,21 @@
+{
+  "name": "react-photo-gallery-with-lightbox",
+  "description": "example using react-images Lightbox component",
+  "version": "0.0.18",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-burger-menu": "^2.2.3",
+    "react-dom": "16.2.0",
+    "react-images": "0.5.13",
+    "react-photo-gallery": "6.0.18"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
